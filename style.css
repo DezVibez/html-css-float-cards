@@ -19,4 +19,9 @@ box-sizing: border-box;}
 
 body{font-family: 'Fredoka', sans-serif;}
 
-h1{font-size: 600;}
+h1{font-size: 600;
+color: rgb(228,56,128);
+text-align: center;}
+
+p {font-size: 100;}
+
