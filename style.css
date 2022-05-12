@@ -1,0 +1,22 @@
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+/*Utilities*/
+
+.container {max-width: 1800px;}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+/*Colors*/
+
+
+body{font-family: 'Fredoka', sans-serif;}
+
+h1{font-size: 600;}
